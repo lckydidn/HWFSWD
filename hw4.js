@@ -1,3 +1,6 @@
+// Lucky Didan
+// FSWD Batch 7
+
 // FUNGSI ARRAY ACAK DENGAN 100 ELEMEN
 function randomArray(n, min, max) {
   let arr = [];
