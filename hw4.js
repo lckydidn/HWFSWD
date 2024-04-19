@@ -24,7 +24,7 @@ function ganjilGenap(arr) {
   }
   return { ganjil, genap };
 }
-// Note to self kenapa make let {genap,ganjil} ini bisa disebut destrukturisasi objek(baca di google aja), in short ini kita manggil objek genap/ganjil dari fungsi ganjilGenap(arr)
+// Note to self kenapa make let {genap,ganjil} ini bisa disebut destrukturisasi objek(baca di google aja, udemy(course web dev yg dibeli) section 18 dan 23),freecodecamp. in short ini kita manggil objek genap/ganjil dari fungsi ganjilGenap(arr)
 let { genap, ganjil } = ganjilGenap(arr);
 // let { genap } = ganjilGenap(arr);
 // let { ganjil } = ganjilGenap(arr);
