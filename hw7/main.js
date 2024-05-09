@@ -1,3 +1,4 @@
+// Lucky Didan Ramadhan FSWD B 7
 import { persegi, persegiPanjang } from "./hitung.js";
 import { readWritefile } from "./RWfile.js";
 
